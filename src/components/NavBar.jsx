@@ -1,6 +1,9 @@
 import React from 'react'
 import { Navbar, NavDropdown, Nav, Container, Form, FormControl, Button } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import PropTypes from 'prop-types'
+import { propTypes } from 'react-bootstrap/esm/Image';
+
 function NavBar(props) {
     return (
         <div>
@@ -28,7 +31,7 @@ function NavBar(props) {
                             className="mr-2"
                             aria-label="Search"
                         />
-                        <Button variant="outline-success" className="mp-100">Search</Button>
+                        <Button variant="outline-success">Search</Button>
                     </Form>
                 </Container>
 
@@ -36,5 +39,11 @@ function NavBar(props) {
         </div>
     )
 }
-
+NavBar.propTypes={
+    title:PropTypes.string
+}
+NavBar.defaultProps={
+    title:"Kya baat hai"
+}
 export default NavBar
+
