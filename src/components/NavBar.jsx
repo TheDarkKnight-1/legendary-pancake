@@ -31,7 +31,9 @@ function NavBar(props) {
                             className="mr-2"
                             aria-label="Search"
                         />
+                        <div className="container">
                         <Button variant="outline-success">Search</Button>
+                        </div>
                     </Form>
                 </Container>
 
