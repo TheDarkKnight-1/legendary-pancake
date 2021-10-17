@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TheDarkKnight-1/legendary-pancake/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/TheDarkKnight-1/legendary-pancake/static/js/main.8f650046.chunk.js",
+    "main.js.map": "/TheDarkKnight-1/legendary-pancake/static/js/main.8f650046.chunk.js.map",
+    "runtime-main.js": "/TheDarkKnight-1/legendary-pancake/static/js/runtime-main.93545bc3.js",
+    "runtime-main.js.map": "/TheDarkKnight-1/legendary-pancake/static/js/runtime-main.93545bc3.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/TheDarkKnight-1/legendary-pancake/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.ae5b6732.chunk.js": "/TheDarkKnight-1/legendary-pancake/static/js/2.ae5b6732.chunk.js",
+    "static/js/2.ae5b6732.chunk.js.map": "/TheDarkKnight-1/legendary-pancake/static/js/2.ae5b6732.chunk.js.map",
+    "static/js/3.9f91e56f.chunk.js": "/TheDarkKnight-1/legendary-pancake/static/js/3.9f91e56f.chunk.js",
+    "static/js/3.9f91e56f.chunk.js.map": "/TheDarkKnight-1/legendary-pancake/static/js/3.9f91e56f.chunk.js.map",
+    "index.html": "/TheDarkKnight-1/legendary-pancake/index.html",
+    "static/css/2.28bb0c3d.chunk.css.map": "/TheDarkKnight-1/legendary-pancake/static/css/2.28bb0c3d.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/TheDarkKnight-1/legendary-pancake/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ae5b6732.chunk.js.LICENSE.txt": "/TheDarkKnight-1/legendary-pancake/static/js/2.ae5b6732.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TheDarkKnight-1/legendary-pancake/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93545bc3.js",
+    "static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.ae5b6732.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8f650046.chunk.js"
+  ]
+}
