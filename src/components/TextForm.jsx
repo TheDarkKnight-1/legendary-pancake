@@ -1,5 +1,7 @@
 import React, { useState } from 'react'
 import { Form, Button } from 'react-bootstrap'
+import SentimentAnalyzer from './SentimentAnalyzer'
+
 export default function TextForm(props) {
     const [text, setText] = useState("")
     const toUpper=()=>{
@@ -40,9 +42,10 @@ export default function TextForm(props) {
                 <p>{text.split(" ").length-1} words and {text.length} characters</p>
                 <p>Average Reading Time: {0.008*(text.split(" ").length-1)} mins</p>
                 <h5>Preview</h5>
-                <p>{text}</p>
+                <p>{text.length===0?"Type something to Preview":text}</p>
+                <h5>Sentiment Analysis</h5>
+                <SentimentAnalyzer text={text}/>
             </div>
-            
         </div>
     )
 }
