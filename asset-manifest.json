@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/legendary-pancake/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/legendary-pancake/static/js/main.8f650046.chunk.js",
-    "main.js.map": "/legendary-pancake/static/js/main.8f650046.chunk.js.map",
+    "main.js": "/legendary-pancake/static/js/main.cab79908.chunk.js",
+    "main.js.map": "/legendary-pancake/static/js/main.cab79908.chunk.js.map",
     "runtime-main.js": "/legendary-pancake/static/js/runtime-main.341ef248.js",
     "runtime-main.js.map": "/legendary-pancake/static/js/runtime-main.341ef248.js.map",
     "static/css/2.28bb0c3d.chunk.css": "/legendary-pancake/static/css/2.28bb0c3d.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.28bb0c3d.chunk.css",
     "static/js/2.ae5b6732.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.8f650046.chunk.js"
+    "static/js/main.cab79908.chunk.js"
   ]
 }
